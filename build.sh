@@ -1,0 +1,1 @@
+clang -F/System/Library/PrivateFrameworks -framework MultitouchSupport -framework Foundation -framework AppKit -framework CoreGraphics main.m -o SafariPrivateGesture
